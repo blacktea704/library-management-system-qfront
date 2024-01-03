@@ -7,3 +7,10 @@ indent_size = 2
 end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
+space_around_operators = true
+
+[*.js]
+quote_type = single
+
+[*.{html,scss,css,json}]
+quote_type = single

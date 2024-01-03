@@ -1,11 +1,14 @@
 {
+  // 推荐安装的插件
   "recommendations": [
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "editorconfig.editorconfig",
     "vue.volar",
-    "wayou.vscode-todo-highlight"
+    "wayou.vscode-todo-highlight",
+    "stylelint.vscode-stylelint"
   ],
+  // 不推荐安装的插件
   "unwantedRecommendations": [
     "octref.vetur",
     "hookyqr.beautify",
